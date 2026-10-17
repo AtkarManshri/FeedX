@@ -5,6 +5,12 @@ A Gemini-powered application that analyzes customer reviews, identifies sentimen
 
 The application uses FastAPI for backend development, Streamlit for the user interface, and SQLite for persistent storage.
 
+## FeedX Preview
+
+![FeedX Dashboard](screenshots/img1.png)
+
+![Sentiment Analysis Output](screenshots/img2.png)
+
 ## Features
 
 - Sentiment analysis to classify reviews as positive, negative, or neutral
