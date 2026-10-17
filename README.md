@@ -9,7 +9,7 @@ The application uses FastAPI for backend development, Streamlit for the user int
 
 ![FeedX Dashboard](screenshots/img1.png)
 
-![Sentiment Analysis Output](screenshots/img2.png)
+![Sentiment Analysis Output](screenshots/img.png)
 
 ## Features
 
